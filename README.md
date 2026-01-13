@@ -1,2 +1,2 @@
 # gh-actions
-repo
+Repository for git actions
